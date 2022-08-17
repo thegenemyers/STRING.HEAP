@@ -1,0 +1,190 @@
+Rran blue 250000000 20 2 4
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 250000000 20 2 1 4
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 250000000 20 2 2 4
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 250000000 20 2 4 4
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 250000000 20 2 6 4
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 250000000 20 2 8 4
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 250000000 20 2 12 4
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue 125000000 20 2 8
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 125000000 20 2 2 8
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 125000000 20 2 4 8
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 125000000 20 2 8 8
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 125000000 20 2 12 8
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 125000000 20 2 16 8
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 125000000 20 2 24 8
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue 62500000 20 2 16
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 62500000 20 2 4 16
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 62500000 20 2 8 16
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 62500000 20 2 16 16
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 62500000 20 2 24 16
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 62500000 20 2 32 16
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Cran blue 62500000 20 2 48 16
+Rtats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+rm hhh

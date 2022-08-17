@@ -1,0 +1,316 @@
+Rran blue 2500000 20 2 4
+Stats 1 hhh blue.*
+Heap  100 hhh blue.*
+Sheap 100 hhh blue.*
+Cheap 100 hhh blue.*
+SCheap 100 hhh blue.*
+Trie 100 hhh blue.*
+rm blue*
+
+Rran blue 1250000 20 2 8
+Stats 1 hhh blue.*
+Heap  100 hhh blue.*
+Sheap 100 hhh blue.*
+Cheap 100 hhh blue.*
+SCheap 100 hhh blue.*
+Trie 100 hhh blue.*
+rm blue*
+
+Rran blue  625000 20 2 16
+Stats 1 hhh blue.*
+Heap  100 hhh blue.*
+Sheap 100 hhh blue.*
+Cheap 100 hhh blue.*
+SCheap 100 hhh blue.*
+Trie 100 hhh blue.*
+rm blue*
+
+Rran blue  312500 20 2 32
+Stats 1 hhh blue.*
+Heap  100 hhh blue.*
+Sheap 100 hhh blue.*
+Cheap 100 hhh blue.*
+SCheap 100 hhh blue.*
+Trie 100 hhh blue.*
+rm blue*
+
+Rran blue  156250 20 2 64
+Stats 1 hhh blue.*
+Heap  100 hhh blue.*
+Sheap 100 hhh blue.*
+Cheap 100 hhh blue.*
+SCheap 100 hhh blue.*
+Trie 100 hhh blue.*
+rm blue*
+
+Rran blue   78125 20 2 128
+Stats 1 hhh blue.*
+Heap  100 hhh blue.*
+Sheap 100 hhh blue.*
+Cheap 100 hhh blue.*
+SCheap 100 hhh blue.*
+Trie 100 hhh blue.*
+rm blue*
+
+Rran blue   39064 20 2 256
+Stats 1 hhh blue.*
+Heap  100 hhh blue.*
+Sheap 100 hhh blue.*
+Cheap 100 hhh blue.*
+SCheap 100 hhh blue.*
+Trie 100 hhh blue.*
+rm blue*
+
+Rran blue 25000000 20 2 4
+Stats 1 hhh blue.*
+Heap  10 hhh blue.*
+Sheap 10 hhh blue.*
+Cheap 10 hhh blue.*
+SCheap 10 hhh blue.*
+Trie 10 hhh blue.*
+rm blue*
+
+Rran blue 12500000 20 2 8
+Stats 1 hhh blue.*
+Heap  10 hhh blue.*
+Sheap 10 hhh blue.*
+Cheap 10 hhh blue.*
+SCheap 10 hhh blue.*
+Trie 10 hhh blue.*
+rm blue*
+
+Rran blue  6250000 20 2 16
+Stats 1 hhh blue.*
+Heap  10 hhh blue.*
+Sheap 10 hhh blue.*
+Cheap 10 hhh blue.*
+SCheap 10 hhh blue.*
+Trie 10 hhh blue.*
+rm blue*
+
+Rran blue  3125000 20 2 32
+Stats 1 hhh blue.*
+Heap  10 hhh blue.*
+Sheap 10 hhh blue.*
+Cheap 10 hhh blue.*
+SCheap 10 hhh blue.*
+Trie 10 hhh blue.*
+rm blue*
+
+Rran blue  1562500 20 2 64
+Stats 1 hhh blue.*
+Heap  10 hhh blue.*
+Sheap 10 hhh blue.*
+Cheap 10 hhh blue.*
+SCheap 10 hhh blue.*
+Trie 10 hhh blue.*
+rm blue*
+
+Rran blue   781250 20 2 128
+Stats 1 hhh blue.*
+Heap  10 hhh blue.*
+Sheap 10 hhh blue.*
+Cheap 10 hhh blue.*
+SCheap 10 hhh blue.*
+Trie 10 hhh blue.*
+rm blue*
+
+Rran blue   390645 20 2 256
+Stats 1 hhh blue.*
+Heap  10 hhh blue.*
+Sheap 10 hhh blue.*
+Cheap 10 hhh blue.*
+SCheap 10 hhh blue.*
+Trie 10 hhh blue.*
+rm blue*
+
+Rran blue 250000000 20 2 4
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue 125000000 20 2 8
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  62500000 20 2 16
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  31250000 20 2 32
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  15625000 20 2 64
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue   7812500 20 2 128
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue   3906450 20 2 256
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue 250000000 20 3 4
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue 125000000 20 3 8
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  62500000 20 3 16
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  31250000 20 3 32
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  15625000 20 3 64
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue   7812500 20 3 128
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue   3906450 20 3 256
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue 250000000 20 4 4
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue 125000000 20 4 8
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  62500000 20 4 16
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  31250000 20 4 32
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue  15625000 20 4 64
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue   7812500 20 4 128
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+Rran blue   3906450 20 4 256
+Stats 1 hhh blue.*
+Heap  1 hhh blue.*
+Sheap 1 hhh blue.*
+Cheap 1 hhh blue.*
+SCheap 1 hhh blue.*
+Trie 1 hhh blue.*
+rm blue*
+
+rm hhh
