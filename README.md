@@ -3,7 +3,7 @@
 <font size ="4">**_Author:  Gene Myers_**<br>
 **_First:   Aug. 17, 2022_**<br>
 
-This repository contains the code and timing experiments for the paper ``Merging Sorted Lists of Similar Strings'' that is at the arXiv and currently under submission.
+This repository contains the code and timing experiments for the paper ``Merging Sorted Lists of Similar Strings'' that is at the [arXiv](https://arxiv.org/abs/2208.09351) and currently under submission.
 
 There are 5 programs that merge some number of sorted, non-redundant input lists of strings, into a single, non-redundant sorted list of all the strings.  The IO for the
 five codes is identical, the only point of variation is how a priority queue of strings
