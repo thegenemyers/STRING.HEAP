@@ -15,6 +15,6 @@ is realized.  The five programs are:
 * ```SCheap```: uses a combined string and collision heap
 * ```Trie```: uses a compact trie, with S-element outedge array at each node
 
-The ```Makefile``` herein compiles these codes and "make trials" will run the experiments reported in Tables 1 and 2 of the paper.  The trials rely on two auxiliary program, ```Rran``` and ```Cran```, that generate synthetic data sets for the Uniform and Shotgun scenarios, respectively (see the paper).
+The ```Makefile``` herein compiles these codes and "make trials" will run the experiments reported in Tables 1 and 2 of the paper.  The trials rely on two auxiliary programs, ```Rran``` and ```Cran```, that generate synthetic data sets for the Uniform and Shotgun scenarios, respectively (see the paper).
 
 I apologize that the trials for Table 3 on real data are not reproducible here, as the volume of data that would need to be stored at this repository seemed, to my mind, excessive in relation to its purpose.
